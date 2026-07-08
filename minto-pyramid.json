@@ -1,0 +1,560 @@
+{
+  "version": 1,
+  "meta": {
+    "title": "Minto Pyramid",
+    "lang": "fi"
+  },
+  "theme": {
+    "bg": "#070C15",
+    "ink": "#0C1524",
+    "foam": "#EAF0F5",
+    "mist": "#8FA3B4",
+    "accentRamp": [
+      "#7FE0D4",
+      "#6BB8E0",
+      "#8AA0D8",
+      "#AB9AD0"
+    ]
+  },
+  "cover": {
+    "kind": "spheres",
+    "prompt": "Klikkaa — sukella ytimeen"
+  },
+  "root": {
+    "id": "nbexm6ln",
+    "title": "Minto Pyramid",
+    "kicker": "Esitys",
+    "children": [
+      {
+        "id": "nyaram06",
+        "title": "A Minto Pyramid deserves a dedicated workspace",
+        "children": [
+          {
+            "id": "nh000hla",
+            "title": "It’s a sign of respect",
+            "children": [
+              {
+                "id": "nngqqn2g",
+                "title": "Time: You value the audience's time by getting to the point",
+                "children": []
+              },
+              {
+                "id": "n8rh87m8",
+                "title": "Intellect: You trust the audience to get the big picture",
+                "children": []
+              },
+              {
+                "id": "ntdsheiv",
+                "title": "Judgement: You trust the audience to determine how much detail they need",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "nssdyzzw",
+            "title": "It’s foremost a thinking framework",
+            "children": [
+              {
+                "id": "nivuaswm",
+                "title": "From the onset of the project, you know to…",
+                "children": []
+              },
+              {
+                "id": "n6xdc05h",
+                "title": "Clarity — strive for precise arguments and robust logic",
+                "children": []
+              },
+              {
+                "id": "ncymixwb",
+                "title": "Ownership — prepare for exposing your findings to scrutiny",
+                "children": []
+              },
+              {
+                "id": "n03zh50q",
+                "title": "Focus — look for the key finding",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "nw7g0me9",
+            "title": "It doesn’t translate well to PowerPoint",
+            "children": [
+              {
+                "id": "n70fr1sl",
+                "title": "Minto Pyramid gives power to the audience, PowerPoint keeps it with the presenter",
+                "children": [
+                  {
+                    "id": "ndoweq68",
+                    "title": "Minto Pyramid",
+                    "children": [],
+                    "body": "”Where do you want to go next?”\n”How do you want to spend the next ten minutes?”\n”What do you want to explore in more detail?”"
+                  },
+                  {
+                    "id": "nxtle3ou",
+                    "title": "PowerPoint",
+                    "children": [],
+                    "body": "The presenter decides the order in advance  Audience input is difficult to incorporate into the sequence\nSkipping in the presentation breaks the rythm",
+                    "kicker": ""
+                  }
+                ]
+              },
+              {
+                "id": "nu4pw0s3",
+                "title": "Minto Pyramid guides the thought where PowerPoint records thoughts",
+                "children": []
+              },
+              {
+                "id": "nthk3g73",
+                "title": "Minto Pyramid supports non-linear consumption of information",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pool": [
+    {
+      "id": "n3rk1mfw",
+      "title": "(nimetön dia)",
+      "children": []
+    },
+    {
+      "id": "ngj7wun3",
+      "title": "A Minto Pyramid is a sign of respect",
+      "children": []
+    },
+    {
+      "id": "ncfoz9wc",
+      "title": "A Minto Pyramid is foremost a thinking framework",
+      "children": []
+    },
+    {
+      "id": "nx3e9bb1",
+      "title": "The Minto Pyramid doesn’t translate well to PowerPoint",
+      "children": []
+    },
+    {
+      "id": "n9tu4y6z",
+      "title": "(nimetön dia)",
+      "children": []
+    },
+    {
+      "id": "num1n2v1",
+      "title": "A Minto Pyramid deserves a dedicated workspace",
+      "children": []
+    },
+    {
+      "id": "nmn7una7",
+      "title": "It’s a sign of respect",
+      "children": []
+    },
+    {
+      "id": "nq879zij",
+      "title": "It’s foremost a thinking framework",
+      "children": []
+    },
+    {
+      "id": "ny5ef525",
+      "title": "It doesn’t translate well to PowerPoint",
+      "children": []
+    },
+    {
+      "id": "n2end4rs",
+      "title": "A Minto Pyramid is a sign of respect",
+      "children": []
+    },
+    {
+      "id": "nklv2ki9",
+      "title": "Time: You value the audience's time by getting to the point",
+      "children": []
+    },
+    {
+      "id": "nvrx4wqg",
+      "title": "Intellect: You trust the audience to connect the dots",
+      "children": []
+    },
+    {
+      "id": "n7gkmtpy",
+      "title": "Judgement: You trust the audience to determine how much detail they need",
+      "children": []
+    },
+    {
+      "id": "ndchxh0w",
+      "title": "You value the audience's time by getting to the point",
+      "children": []
+    },
+    {
+      "id": "nxz3nlq2",
+      "title": "The most important finding as the leading phrase",
+      "children": []
+    },
+    {
+      "id": "n4tbumf7",
+      "title": "No explanations",
+      "children": []
+    },
+    {
+      "id": "nd395imi",
+      "title": "No setting the scene",
+      "children": []
+    },
+    {
+      "id": "nezwt9yh",
+      "title": "Absolutely no click-baits",
+      "children": []
+    },
+    {
+      "id": "n409ejq7",
+      "title": "Warm and sunny",
+      "children": []
+    },
+    {
+      "id": "npf42336",
+      "title": "National innovation prize to local farmer",
+      "children": []
+    },
+    {
+      "id": "nqhvhy57",
+      "title": "You trust the audience to get the big picture",
+      "children": []
+    },
+    {
+      "id": "nspfeihk",
+      "title": "Minto",
+      "children": []
+    },
+    {
+      "id": "n7y12wnd",
+      "title": "Market share is declining because churn has doubled",
+      "children": []
+    },
+    {
+      "id": "nvetkivz",
+      "title": "Here's why",
+      "children": []
+    },
+    {
+      "id": "nmivmakr",
+      "title": "Traditional",
+      "children": []
+    },
+    {
+      "id": "n5yd1mvd",
+      "title": "Here's the market...",
+      "children": []
+    },
+    {
+      "id": "nk1bwmek",
+      "title": "Here's the data...",
+      "children": []
+    },
+    {
+      "id": "n2adnk6p",
+      "title": "Here's the analysis...",
+      "children": []
+    },
+    {
+      "id": "nchoz26a",
+      "title": "Here's the conclusion...",
+      "children": []
+    },
+    {
+      "id": "n46gxlf4",
+      "title": "You trust the audience to determine how much detail they need",
+      "children": []
+    },
+    {
+      "id": "nd5iznr7",
+      "title": "An exec-summary built in the structure is quite smart",
+      "children": []
+    },
+    {
+      "id": "nhhokt7u",
+      "title": "Readers can stop when they are satisfied",
+      "children": []
+    },
+    {
+      "id": "nn6wltin",
+      "title": "Appendix 7 is not for everyone",
+      "children": []
+    },
+    {
+      "id": "nyyqnlbj",
+      "title": "(nimetön dia)",
+      "children": []
+    },
+    {
+      "id": "ndfpunm6",
+      "title": "A Minto Pyramid deserves a dedicated workspace",
+      "children": []
+    },
+    {
+      "id": "nmi9aero",
+      "title": "It’s a sign of respect",
+      "children": []
+    },
+    {
+      "id": "naf4t4ym",
+      "title": "It’s foremost a thinking framework",
+      "children": []
+    },
+    {
+      "id": "nyd3agno",
+      "title": "It doesn’t translate well to PowerPoint",
+      "children": []
+    },
+    {
+      "id": "nop8zxi1",
+      "title": "A Minto Pyramid is foremost a thinking framework",
+      "children": []
+    },
+    {
+      "id": "nm9e09ct",
+      "title": "From the outset",
+      "children": []
+    },
+    {
+      "id": "nhqkbww2",
+      "title": "look for the key finding",
+      "children": []
+    },
+    {
+      "id": "nlmlljgp",
+      "title": "Focus",
+      "children": []
+    },
+    {
+      "id": "nj71scxr",
+      "title": "strive for precise arguments and robust logic",
+      "children": []
+    },
+    {
+      "id": "n4jvd1p2",
+      "title": "Clarity",
+      "children": []
+    },
+    {
+      "id": "nowkblav",
+      "title": "Ownership",
+      "children": []
+    },
+    {
+      "id": "n5d752u7",
+      "title": "prepare for exposing your findings to scrutiny",
+      "children": []
+    },
+    {
+      "id": "nfb2973v",
+      "title": "From the outset, look for the key finding",
+      "children": []
+    },
+    {
+      "id": "nnpu43vc",
+      "title": "The Minto Pyramid demands dicipline",
+      "children": []
+    },
+    {
+      "id": "n2rjnrvb",
+      "title": "You are not collecting facts, you are searching for an answer",
+      "children": []
+    },
+    {
+      "id": "nkvutzas",
+      "title": "Eye on the prize. From the start",
+      "children": []
+    },
+    {
+      "id": "nbr60g3u",
+      "title": "From the outset, strive for precise arguments and robust logic",
+      "children": []
+    },
+    {
+      "id": "nlke29cb",
+      "title": "Evrything in the document has to support it’s purpose",
+      "children": []
+    },
+    {
+      "id": "nszfgsuo",
+      "title": "Analysis is a means to an end, not the end itself",
+      "children": []
+    },
+    {
+      "id": "n4zuo676",
+      "title": "\"I have made this letter longer than usual because I have not had time to make it shorter.“",
+      "children": []
+    },
+    {
+      "id": "nc9xeo43",
+      "title": "Blaise Pascal, 1657",
+      "children": []
+    },
+    {
+      "id": "nm6c3xgm",
+      "title": "Present the diamond, not the excavation",
+      "children": []
+    },
+    {
+      "id": "nkkoa293",
+      "title": "From the outset, prepare for exposing your findings to scrutiny",
+      "children": []
+    },
+    {
+      "id": "nrui1zhw",
+      "title": "It takes a lot of courage to expose your finding right at the start",
+      "children": []
+    },
+    {
+      "id": "n7wq6e3p",
+      "title": "No cover",
+      "children": []
+    },
+    {
+      "id": "ng66p9oq",
+      "title": "No excuses",
+      "children": []
+    },
+    {
+      "id": "n3z6uvcm",
+      "title": "A finding that you are comfortable to put front-and-center is a message on its own",
+      "children": []
+    },
+    {
+      "id": "nklvymt3",
+      "title": "”I did the work”",
+      "children": []
+    },
+    {
+      "id": "nxaa8oni",
+      "title": "”This is what I think”",
+      "children": []
+    },
+    {
+      "id": "nbr36lsa",
+      "title": "(nimetön dia)",
+      "children": []
+    },
+    {
+      "id": "n9323nam",
+      "title": "A Minto Pyramid deserves a dedicated workspace",
+      "children": []
+    },
+    {
+      "id": "n3e96ztk",
+      "title": "It’s a sign of respect",
+      "children": []
+    },
+    {
+      "id": "np3ka38u",
+      "title": "It’s foremost a thinking framework",
+      "children": []
+    },
+    {
+      "id": "n6sicu6p",
+      "title": "It doesn’t translate well to PowerPoint",
+      "children": []
+    },
+    {
+      "id": "nd138jbh",
+      "title": "The Minto Pyramid doesn’t translate well to PowerPoint",
+      "children": []
+    },
+    {
+      "id": "nd0m6avz",
+      "title": "PowerPoint",
+      "children": []
+    },
+    {
+      "id": "nsiqms47",
+      "title": "PowerPoint supports linear storytelling",
+      "children": []
+    },
+    {
+      "id": "n6kwepew",
+      "title": "The Minto Pyramid is a layered structure, while PowerPoint follows a sequential logic",
+      "children": []
+    },
+    {
+      "id": "nzl3yc9e",
+      "title": "This",
+      "children": []
+    },
+    {
+      "id": "np9y1648",
+      "title": "becomes",
+      "children": []
+    },
+    {
+      "id": "n6bqb5pm",
+      "title": "this",
+      "children": []
+    },
+    {
+      "id": "nm3334qt",
+      "title": "When forced into PowerPoint",
+      "children": []
+    },
+    {
+      "id": "nk5cgrw3",
+      "title": "”Is this relevant?”",
+      "children": []
+    },
+    {
+      "id": "ng29tslv",
+      "title": "”Does this support the claim?”",
+      "children": []
+    },
+    {
+      "id": "ncbrm9eu",
+      "title": "”Is the claim robust enough?”",
+      "children": []
+    },
+    {
+      "id": "nkgd51vj",
+      "title": "”I can always decrease the font size”",
+      "children": []
+    },
+    {
+      "id": "n4page6q",
+      "title": "”I can add a slide for this”",
+      "children": []
+    },
+    {
+      "id": "n4hgqp6y",
+      "title": "”This is an interesting piece of information”",
+      "children": []
+    },
+    {
+      "id": "nvtraw62",
+      "title": "Man bites dog",
+      "children": []
+    },
+    {
+      "id": "nmosbnol",
+      "title": "Minto Pyramid — Gives power to the audience — Is a layered structure — Guides the thought",
+      "children": []
+    },
+    {
+      "id": "npy94pfn",
+      "title": "PowerPoint — Keeps power with the presenter — Follows a sequential logic — Records thoughts",
+      "children": []
+    },
+    {
+      "id": "ncy5aljl",
+      "title": "Minto Pyramid — Gives power to the audience — PowerPoint — Keeps power with the presenter",
+      "children": []
+    },
+    {
+      "id": "nqydn8rq",
+      "title": "Minto Pyramid — Is a layered structure — PowerPoint — Follows a sequential logic",
+      "children": []
+    },
+    {
+      "id": "na3oha15",
+      "title": "Minto Pyramid — Guides the thought — PowerPoint — Records thoughts",
+      "children": []
+    }
+  ]
+}
